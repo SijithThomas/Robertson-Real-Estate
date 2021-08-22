@@ -403,6 +403,9 @@
     #mail-section .form input[type="text"]{
         text-align: center;
     }
+    #mail-section .btn-theme-2{
+        width: 100%;
+    }
     #service-section .d-flex{
         flex-direction: column;
     }
