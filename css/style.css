@@ -422,3 +422,19 @@
         flex-direction: column;
     }
 }
+@media only screen and (max-width:991px){
+    .navbar-brand{
+        overflow: hidden    ;
+        width: 95px;
+        height: 50px;
+    }
+    .navbar-brand img{
+        width: 100%;
+        height: 100%;
+    }
+    .navbar-brand{
+        overflow: hidden    ;
+        width: 95px;
+        height: 50px;
+    }
+}
